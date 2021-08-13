@@ -3,9 +3,11 @@
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  /a>
-  
-  <img src="/linkedin-banner.png" alt="Banner that says, 'I build things for the web'"/>
+   />
+ </a>
+ <br />
+ <img src="/linkedin-banner.png" alt="Banner that says, 'I build things for the web'"/>
+ <br />
 
 <p>I'm a web developer who strives to build web applications with clean and beautiful interfaces that provide a delightful user experience. I love learning new technologies and concepts related to web development. I find delight in solving problems with clean, simple, and easy-to-understand code.</p>
 <p>Apart from coding, I enjoy watching and playing soccer, gaming, watching nature documentaries, and hiking.</p>
