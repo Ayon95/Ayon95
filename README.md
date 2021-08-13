@@ -5,7 +5,7 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
    />
  </a>
- <br />
+ <br /><br />
  <img src="/linkedin-banner.png" alt="Banner that says, 'I build things for the web'"/>
  <br />
 
