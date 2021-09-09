@@ -6,7 +6,7 @@
    />
  </a>
  <br /><br />
- <img src="/linkedin-banner.png" alt="Banner that says, 'I build things for the web'"/>
+ <img src="/linkedin-banner-2.png" alt="Banner that says, 'I build things for the web'"/>
  <br />
 
 <p>I'm a web developer who strives to build web applications with clean and beautiful interfaces that provide a delightful user experience. I love learning new technologies and concepts related to web development. I find delight in solving problems with clean, simple, and easy-to-understand code.</p>
