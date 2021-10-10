@@ -14,7 +14,7 @@
 
 - 👨‍💻 [Portfolio website](https://mushfiq-rahman.netlify.app/)
 
-- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/390d75fce2b9f63dd242c2538ec85d42/mushfiq_rahman_resume.pdf)
+- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/3dd50c07a57334425beace4060be4c5f/mushfiq_rahman_resume.pdf)
 
 - 📫 Get in touch **mushfiqurrahman78@yahoo.com**
 
@@ -28,6 +28,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
   <img alt="styled components" src="https://img.shields.io/badge/styled components-DB7093?logo=styled-components&logoColor=white&style=flat" />
+  <img alt="Material UI" src="https://img.shields.io/badge/Material UI-0081CB?logo=materialui&logoColor=white&style=flat" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
