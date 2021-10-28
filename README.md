@@ -1,12 +1,12 @@
 <h1>Hi, I'm <a href="https://mushfiq-rahman.netlify.app" target="_blank">Mushfiq Rahman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <a href="https://www.linkedin.com/in/mushfiq-rahman-653688203/">
   <img
-    alt="Linkedin"
+    alt="LinkedIn"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
    />
  </a>
  <br /><br />
- <img src="/linkedin-banner-2.png" alt="Banner that says, 'I build things for the web'"/>
+ <img src="/linkedin-banner-2.png" alt="Banner that says, 'Web Development'"/>
  <br />
 
 <p>I'm a web developer who strives to build web applications with clean and beautiful interfaces that provide a delightful user experience. I love learning new technologies and concepts related to web development. I find delight in solving problems with clean, simple, and easy-to-understand code.</p>
@@ -14,7 +14,7 @@
 
 - 👨‍💻 [Portfolio website](https://mushfiq-rahman.netlify.app/)
 
-- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/3dd50c07a57334425beace4060be4c5f/mushfiq_rahman_resume.pdf)
+- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/6ce2f9b12fc379766d542ba719da422d/mushfiq_rahman_resume.pdf)
 
 - 📫 Get in touch **mushfiqurrahman78@yahoo.com**
 
