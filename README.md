@@ -14,7 +14,7 @@
 
 - 👨‍💻 [Portfolio website](https://mushfiq-rahman.netlify.app/)
 
-- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/6ce2f9b12fc379766d542ba719da422d/mushfiq_rahman_resume.pdf)
+- 📄 [Resume](https://mushfiq-rahman.netlify.app/static/8e1a85872052ee73edafa897da9969ea/mushfiq_rahman_resume.pdf)
 
 - 📫 Get in touch **mushfiqurrahman78@yahoo.com**
 
