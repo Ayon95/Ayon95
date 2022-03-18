@@ -5,6 +5,18 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
    />
  </a>
+ <a href="https://leetcode.com/Ayon95/">
+  <img
+    alt="LeetCode"
+    src="https://img.shields.io/badge/LeetCode-292929?logo=leetcode&logoColor=fab71b&style=flat"
+   />
+ </a>
+ <a href="https://www.frontendmentor.io/profile/Ayon95">
+  <img
+    alt="Frontend Mentor"
+    src="https://img.shields.io/badge/FrontendMentor-d61163?logo=frontendmentor&logoColor=97e2fc&style=flat"
+   />
+ </a>
  <br /><br />
  <img src="/linkedin-banner-2.png" alt="Banner that says, 'Web Development'"/>
  <br />
