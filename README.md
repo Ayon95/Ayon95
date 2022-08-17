@@ -50,6 +50,6 @@
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayon95&show_icons=true&count_private=true&include_all_commits=true&custom_title=My GitHub stats&locale=en" alt="ayon95" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayon95&show_icons=true&count_private=true&include_all_commits=true" alt="ayon95" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon95&show_icons=true&layout=compact"/>
 </p>
