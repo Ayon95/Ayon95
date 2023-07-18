@@ -24,7 +24,7 @@
 <p>I'm a web developer who strives to build web applications with clean and beautiful interfaces that provide a delightful user experience. I love learning new technologies and concepts related to web development. I find delight in solving problems with clean, simple, and easy-to-understand code.</p>
 <p>Apart from coding, I enjoy watching and playing soccer, gaming, watching nature documentaries, and hiking.</p>
 
-- 👨‍💻 [Portfolio website](https://mushfiq-rahman.netlify.app/)
+- 👨‍💻 [Portfolio website](https://mdmushfiqrahman.com/)
 
 - 📫 Get in touch **mushfiqurrahman78@yahoo.com**
 
