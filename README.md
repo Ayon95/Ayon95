@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://mushfiq-rahman.netlify.app" target="_blank">Mushfiq Rahman</a></h1>
+<h1>Hi, I'm <a href="https://mdmushfiqrahman.com/" target="_blank">Mushfiq Rahman</a></h1>
 <a href="https://www.linkedin.com/in/mushfiq-rahman-653688203/">
   <img
     alt="LinkedIn"
