@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="https://mdmushfiqrahman.com/" target="_blank">Mushfiq Rahman</a></h1>
-<a href="https://www.linkedin.com/in/mushfiq-rahman-653688203/">
+<a href="https://www.linkedin.com/in/mushfiqur-rahman-653688203/">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
